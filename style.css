@@ -1,0 +1,36 @@
+.container {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+#bmiIdealLabel {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #666;
+}
+
+body {
+    background-color: #f2f2f2;
+}
